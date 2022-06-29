@@ -4,6 +4,7 @@ public class Main {
 		 *  Push 연습
 		 */
 		System.out.println("Push Push Babe");
+		// 연습 1
 	}
 
 }
